@@ -1,2 +1,0 @@
-# ARVR-Project
-VR GAME
