@@ -970,7 +970,7 @@ CharacterController:
   m_SlopeLimit: 45
   m_StepOffset: 10
   m_SkinWidth: 0.08
-  m_MinMoveDistance: 0.1
+  m_MinMoveDistance: 0.0001
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &179240259
 MonoBehaviour:
@@ -985,7 +985,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_System: {fileID: 179240260}
-  m_MoveSpeed: 100
+  m_MoveSpeed: 3
   m_EnableStrafe: 1
   m_EnableFly: 0
   m_UseGravity: 1
